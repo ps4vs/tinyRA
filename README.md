@@ -1,2 +1,1 @@
 # tinyRA
-tiny research-assistant
