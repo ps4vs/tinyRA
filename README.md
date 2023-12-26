@@ -1,1 +1,1 @@
-# tinyRA
+Your research assistant!
